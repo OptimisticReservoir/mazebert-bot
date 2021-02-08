@@ -1,0 +1,4 @@
+2019-12-27 18:01:00,672:INFO:discord.client: logging in using static token
+2019-12-27 18:01:00,846:DEBUG:discord.http: GET https://discordapp.com/api/v7/users/@me with None has returned 401
+2019-12-27 18:01:00,847:INFO:discord.client: Cleaning up tasks.
+2019-12-27 18:01:00,848:INFO:discord.client: Closing the event loop.
